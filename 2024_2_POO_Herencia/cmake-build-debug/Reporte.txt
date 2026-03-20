@@ -1,0 +1,65 @@
+738     Agua Mineral        mediano
+Jugo de Naranja         grande
+936     Coca-Cola        pequeno
+972     Cafe        mediano
+Coca-Cola        mediano
+Agua Mineral        pequeno
+Jugo de Naranja        mediano
+648     554     Cafe        pequeno
+Cafe        pequeno
+556     Coca-Cola         grande
+180     Jugo de Naranja        pequeno
+Jugo de Naranja        mediano
+Cafe        mediano
+705     Cafe        mediano
+Sprite         grande
+767     947     Cafe        pequeno
+Jugo de Naranja         grande
+200     Sprite        mediano
+Cafe        mediano
+Coca-Cola        mediano
+994     Agua Mineral        mediano
+Jugo de Naranja        mediano
+Cafe        pequeno
+654     328     Coca-Cola         grande
+841     Jugo de Naranja        pequeno
+734     815     364     Cafe         grande
+Coca-Cola        pequeno
+Jugo de Naranja        mediano
+526     Coca-Cola         grande
+Jugo de Naranja         grande
+Jugo de Naranja        mediano
+837     Coca-Cola        pequeno
+Coca-Cola         grande
+660     Agua Mineral        mediano
+214     Sprite        pequeno
+879     Jugo de Naranja         grande
+299     596     438     812     Sprite         grande
+Jugo de Naranja         grande
+Jugo de Naranja        mediano
+692     169     Jugo de Naranja        mediano
+684     876     Agua Mineral        mediano
+820     418     Coca-Cola         grande
+Jugo de Naranja        pequeno
+844     191     Cafe        pequeno
+Cafe        mediano
+161     Agua Mineral        mediano
+Coca-Cola         grande
+194     Cafe        mediano
+727     Sprite        mediano
+787     Coca-Cola        mediano
+858     Sprite        pequeno
+Jugo de Naranja        pequeno
+836     Cafe        mediano
+Sprite        mediano
+400     Sprite        mediano
+372     Coca-Cola        pequeno
+981     Sprite        pequeno
+Sprite         grande
+327     Cafe        mediano
+Jugo de Naranja         grande
+Agua Mineral         grande
+358     142     Cafe         grande
+Agua Mineral        pequeno
+465     Sprite        mediano
+706     228     
