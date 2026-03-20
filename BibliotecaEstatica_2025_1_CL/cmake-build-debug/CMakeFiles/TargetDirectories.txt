@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/BibliotecaEstatica_2025_1_CL/cmake-build-debug/CMakeFiles/BibliotecaEstatica_2025_1_CL.dir
+C:/C#/PROGRA2_2025-2/BibliotecaEstatica_2025_1_CL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/BibliotecaEstatica_2025_1_CL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
