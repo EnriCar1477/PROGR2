@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/PROG2_Lab04_2023_2_20206162_CARRANZA_Cesar/cmake-build-debug/CMakeFiles/PROG2_Lab04_2023_2_20206162_CARRANZA_Cesar.dir
+C:/C#/PROGRA2_2025-2/PROG2_Lab04_2023_2_20206162_CARRANZA_Cesar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/PROG2_Lab04_2023_2_20206162_CARRANZA_Cesar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

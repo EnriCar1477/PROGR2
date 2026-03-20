@@ -1,0 +1,21 @@
+B  Espresso DobleUn espresso intenso con una mezcla de Café Arábica y Robusta para un sabor equilibrado y fuerteC05.92879e-322
+B  Café LatteSuave y cremoso elaborado con una mezcla de cafés y leche vaporizada para una textura delicadaC1547.41098e-322
+B  Cappuccino ClásicoClásico cappuccino con una perfecta proporción de espresso leche espumosa y un toque de cacaoC06.91692e-322
+B  AmericanoUn café Robusta diluido ofreciendo un sabor fuerte pero menos concentradoC06.42285e-322
+B  Mocha de Chocolate OscuroUna deliciosa combinación de espresso y chocolate oscuro coronado con crema batidaH1024.94066e-322
+B  Chocolate Caliente CremosoChocolate caliente espeso con un toque cremoso ideal para los días fríosH05.43472e-322
+B  Té Verde MatchaTé verde matcha en polvo con un sabor terroso y ligeramente dulceT1544.44659e-322
+B  Té Negro Earl GreyTé negro de alta calidad con el aroma cítrico del aceite de bergamotaT��04.19956e-322
+B  Infusión de ManzanillaSuave infusión de flores de manzanilla perfecta para relajarseI1542.96439e-322
+B  Infusión de LavandaRelajante infusión de lavanda seca ideal para calmar los sentidosI02.47033e-322
+B  Café con Leche DescremadaCafé suave con leche descremada para un sabor ligero pero satisfactorioC05.68175e-322
+B  Café Cold BrewCafé infusionado en frío con un sabor suave y menos ácidoC04.69362e-322
+B  Té Rooibos VainillaInfusión de rooibos con un toque de vainilla naturalmente dulce y sin cafeínaT2053.45846e-322
+B  Chai LatteMezcla especiada de té negro leche vaporizada y especias como canela y cardamomoT1543.70549e-322
+B  Té de Jengibre con MielInfusión picante de jengibre fresco y miel de abeja para calentar el cuerpoI1023.21143e-322
+B  Chocolate con CanelaDelicioso chocolate caliente con un toque de canela molidaH513.95253e-322
+B  Infusión de JenInfusión exótica de jengibre fresco y nuez moscada para un sabor cálido y especiadoI2052.71736e-322
+B  Latte de Almendra y VainillaCafé latte con leche de almendra y un toque de vainilla líquida perfecto para intolerantes a la lactosaC?I�2054.44659e-322
+B  Té Verde con Jengibre y MielFusión de té verde con jengibre fresco y un toque de miel para una combinación refrescante y cálidaT02.96439e-322
+B  Chocolate Blanco CalienteDulce y cremoso chocolate blanco caliente una indulgencia suaveH2053.45846e-322
+B  Flat WhiteCafé fuerte con una capa fina de leche vaporizada ideal para los amantes del café más intensoC03.95253e-322
