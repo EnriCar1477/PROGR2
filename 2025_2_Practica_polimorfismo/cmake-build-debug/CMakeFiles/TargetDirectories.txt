@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/2025_2_Practica_polimorfismo/cmake-build-debug/CMakeFiles/2025_2_Practica_polimorfismo.dir
+C:/C#/PROGRA2_2025-2/2025_2_Practica_polimorfismo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/2025_2_Practica_polimorfismo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
