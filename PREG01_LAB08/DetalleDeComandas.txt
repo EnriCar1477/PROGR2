@@ -1,0 +1,467 @@
+Detalle de comandas
+========================================================================================================================
+Codigo de Comanda: 142
+Nombre: Cafe
+Precio: 2.00
+Tamano: grande
+
+Codigo de Comanda: 142
+Nombre: Agua Mineral
+Precio: 2.50
+Tamano: pequeno
+
+Codigo de Comanda: 142
+Nombre: Quesadillas
+Precio: 5.50
+Picante
+
+Codigo de Comanda: 142
+Nombre: Bruschetta
+Precio: 4.00
+Sin picante
+
+Codigo de Comanda: 142
+Nombre: Pasta Alfredo
+Precio: 10.00
+Proteina: Lacteos
+
+Codigo de Comanda: 142
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 161
+Nombre: Agua Mineral
+Precio: 2.50
+Tamano: mediano
+
+Codigo de Comanda: 161
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: grande
+
+Codigo de Comanda: 161
+Nombre: Quesadillas
+Precio: 5.50
+Picante
+
+Codigo de Comanda: 161
+Nombre: Ensalada Cesar
+Precio: 6.00
+Sin picante
+
+Codigo de Comanda: 161
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 161
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
+Codigo de Comanda: 169
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: mediano
+
+Codigo de Comanda: 169
+Nombre: Pasta Alfredo
+Precio: 10.00
+Proteina: Lacteos
+
+Codigo de Comanda: 180
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: pequeno
+
+Codigo de Comanda: 180
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: mediano
+
+Codigo de Comanda: 180
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 180
+Nombre: Nachos
+Precio: 5.00
+Picante
+
+Codigo de Comanda: 191
+Nombre: Cafe
+Precio: 2.00
+Tamano: pequeno
+
+Codigo de Comanda: 191
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 191
+Nombre: Bruschetta
+Precio: 4.00
+Picante
+
+Codigo de Comanda: 191
+Nombre: Strogonoff
+Precio: 25.75
+Proteina: Carne
+
+Codigo de Comanda: 194
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 194
+Nombre: Ensalada Cesar
+Precio: 6.00
+Sin picante
+
+Codigo de Comanda: 200
+Nombre: Sprite
+Precio: 3.00
+Tamano: mediano
+
+Codigo de Comanda: 200
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 200
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: mediano
+
+Codigo de Comanda: 214
+Nombre: Sprite
+Precio: 3.00
+Tamano: pequeno
+
+Codigo de Comanda: 228
+Nombre: Quesadillas
+Precio: 5.50
+Sin picante
+
+Codigo de Comanda: 299
+Nombre: Guacamole
+Precio: 4.50
+Picante
+
+Codigo de Comanda: 299
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 299
+Nombre: Hamburguesa
+Precio: 8.50
+Proteina: Carne
+
+Codigo de Comanda: 327
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 327
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: grande
+
+Codigo de Comanda: 327
+Nombre: Agua Mineral
+Precio: 2.50
+Tamano: grande
+
+Codigo de Comanda: 327
+Nombre: Bruschetta
+Precio: 4.00
+Picante
+
+Codigo de Comanda: 327
+Nombre: Hamburguesa
+Precio: 8.50
+Proteina: Carne
+
+Codigo de Comanda: 328
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: grande
+
+Codigo de Comanda: 328
+Nombre: Pasta Alfredo
+Precio: 10.00
+Proteina: Lacteos
+
+Codigo de Comanda: 328
+Nombre: Hamburguesa
+Precio: 8.50
+Proteina: Carne
+
+Codigo de Comanda: 358
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 358
+Nombre: Guacamole
+Precio: 4.50
+Sin picante
+
+Codigo de Comanda: 358
+Nombre: Quesadillas
+Precio: 5.50
+Sin picante
+
+Codigo de Comanda: 364
+Nombre: Cafe
+Precio: 2.00
+Tamano: grande
+
+Codigo de Comanda: 364
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: pequeno
+
+Codigo de Comanda: 364
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: mediano
+
+Codigo de Comanda: 364
+Nombre: Ensalada Cesar
+Precio: 6.00
+Sin picante
+
+Codigo de Comanda: 364
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 372
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: pequeno
+
+Codigo de Comanda: 372
+Nombre: Guacamole
+Precio: 4.50
+Picante
+
+Codigo de Comanda: 400
+Nombre: Sprite
+Precio: 3.00
+Tamano: mediano
+
+Codigo de Comanda: 400
+Nombre: Guacamole
+Precio: 4.50
+Sin picante
+
+Codigo de Comanda: 400
+Nombre: Guacamole
+Precio: 4.50
+Picante
+
+Codigo de Comanda: 418
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: grande
+
+Codigo de Comanda: 418
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: pequeno
+
+Codigo de Comanda: 418
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 418
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
+Codigo de Comanda: 438
+Nombre: Strogonoff
+Precio: 25.75
+Proteina: Carne
+
+Codigo de Comanda: 438
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 438
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 465
+Nombre: Sprite
+Precio: 3.00
+Tamano: mediano
+
+Codigo de Comanda: 465
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 465
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
+Codigo de Comanda: 465
+Nombre: Quesadillas
+Precio: 5.50
+Picante
+
+Codigo de Comanda: 465
+Nombre: Lomo Saltado
+Precio: 12.00
+Proteina: Carne
+
+Codigo de Comanda: 465
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 684
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 692
+Nombre: Nachos
+Precio: 5.00
+Sin picante
+
+Codigo de Comanda: 692
+Nombre: Ensalada Cesar
+Precio: 6.00
+Sin picante
+
+Codigo de Comanda: 692
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 705
+Nombre: Cafe
+Precio: 2.00
+Tamano: mediano
+
+Codigo de Comanda: 705
+Nombre: Sprite
+Precio: 3.00
+Tamano: grande
+
+Codigo de Comanda: 706
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 727
+Nombre: Sprite
+Precio: 3.00
+Tamano: mediano
+
+Codigo de Comanda: 727
+Nombre: Pasta Alfredo
+Precio: 10.00
+Proteina: Lacteos
+
+Codigo de Comanda: 734
+Nombre: Pasta Alfredo
+Precio: 10.00
+Proteina: Lacteos
+
+Codigo de Comanda: 734
+Nombre: Strogonoff
+Precio: 25.75
+Proteina: Carne
+
+Codigo de Comanda: 738
+Nombre: Agua Mineral
+Precio: 2.50
+Tamano: mediano
+
+Codigo de Comanda: 738
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: grande
+
+Codigo de Comanda: 738
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
+Codigo de Comanda: 738
+Nombre: Pollo a la Brasa
+Precio: 15.00
+Proteina: Pollo
+
+Codigo de Comanda: 738
+Nombre: Hamburguesa
+Precio: 8.50
+Proteina: Carne
+
+Codigo de Comanda: 738
+Nombre: Strogonoff
+Precio: 25.75
+Proteina: Carne
+
+Codigo de Comanda: 767
+Nombre: Bruschetta
+Precio: 4.00
+Sin picante
+
+Codigo de Comanda: 767
+Nombre: Hamburguesa
+Precio: 8.50
+Proteina: Carne
+
+Codigo de Comanda: 787
+Nombre: Coca-Cola
+Precio: 3.50
+Tamano: mediano
+
+Codigo de Comanda: 787
+Nombre: Quesadillas
+Precio: 5.50
+Picante
+
+Codigo de Comanda: 787
+Nombre: Bruschetta
+Precio: 4.00
+Sin picante
+
+Codigo de Comanda: 787
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
+Codigo de Comanda: 812
+Nombre: Sprite
+Precio: 3.00
+Tamano: grande
+
+Codigo de Comanda: 812
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: grande
+
+Codigo de Comanda: 812
+Nombre: Jugo de Naranja
+Precio: 4.00
+Tamano: mediano
+
+Codigo de Comanda: 812
+Nombre: Ensalada Cesar
+Precio: 6.00
+Picante
+
