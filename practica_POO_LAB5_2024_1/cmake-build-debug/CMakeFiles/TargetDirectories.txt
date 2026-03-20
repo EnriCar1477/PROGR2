@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/practica_POO_LAB5_2024_1/cmake-build-debug/CMakeFiles/practica_POO_LAB5_2024_1.dir
+C:/C#/PROGRA2_2025-2/practica_POO_LAB5_2024_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/practica_POO_LAB5_2024_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

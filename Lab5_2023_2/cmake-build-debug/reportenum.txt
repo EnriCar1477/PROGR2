@@ -1,0 +1,12 @@
+Camion  1:Peso:         6
+6
+Camion  2:Peso:         7
+7
+Camion  3:Peso:         8
+1
+4
+3
+Camion  4:Peso:         9
+9
+Camion  5:Peso:        10
+10
