@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/POO_2024_1_Herencia/cmake-build-debug/CMakeFiles/POO_2024_1_Herencia.dir
+C:/C#/PROGRA2_2025-2/POO_2024_1_Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/POO_2024_1_Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
