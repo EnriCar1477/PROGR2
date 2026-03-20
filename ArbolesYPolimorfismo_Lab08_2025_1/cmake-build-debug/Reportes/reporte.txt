@@ -1,0 +1,45 @@
+                              REPORTE DE DRONES
+=====================================================================================
+Codigo           Ubicacion           Capacidad               Velocidad/Zona/Luz
+DV001            Avenida A                5                         60.00
+DS473            Avenida B               10                             1
+DE467            Avenida C               15                             0
+DE033            Avenida F               15                             0
+DE190            Avenida C               15                             0
+DE172            Avenida F               15                             0
+DE243            Avenida I               15                             0
+DE526            Avenida I               15                             0
+DS253            Avenida B               10                             1
+DE686            Avenida F               15                             0
+DE679            Avenida C               15                             0
+DE618            Avenida F               15                             0
+DE999            Avenida I               15                             0
+DE885            Avenida I               15                             0
+DE746            Avenida C               15                             0
+DE830            Avenida C               15                             0
+DE960            Avenida F               15                             0
+DS071            Avenida B               10                             1
+DS203            Avenida H               10                             1
+DS461            Avenida E               10                             1
+DS318            Avenida H               10                             1
+DS849            Avenida E               10                             1
+DS834            Avenida H               10                             1
+DS609            Avenida E               10                             1
+DS714            Avenida B               10                             1
+DS799            Avenida E               10                             1
+DS863            Avenida H               10                             1
+DV621            Avenida D                5                         60.00
+DV573            Avenida G                5                         60.00
+DV081            Avenida J                5                         60.00
+DV050            Avenida A                5                         60.00
+DV044            Avenida J                5                         60.00
+DV419            Avenida D                5                         60.00
+DV326            Avenida A                5                         60.00
+DV306            Avenida J                5                         60.00
+DV253            Avenida A                5                         60.00
+DV252            Avenida G                5                         60.00
+DV572            Avenida D                5                         60.00
+DV481            Avenida D                5                         60.00
+DV618            Avenida G                5                         60.00
+DV588            Avenida G                5                         60.00
+DV974            Avenida J                5                         60.00
