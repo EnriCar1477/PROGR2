@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/POO_Sobrecargar_operadores/Punto/cmake-build-debug/CMakeFiles/Punto.dir
+C:/C#/PROGRA2_2025-2/POO_Sobrecargar_operadores/Punto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/POO_Sobrecargar_operadores/Punto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
