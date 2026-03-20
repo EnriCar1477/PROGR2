@@ -1,0 +1,4 @@
+"C:\Users\enric\AppData\Local\Programs\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/enric/AppData/Local/Programs/CLion 2025.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\C#\PROGRA2_2025-2\L6_2023_2_POO_MELGAR -B C:\C#\PROGRA2_2025-2\L6_2023_2_POO_MELGAR\cmake-build-debug
+-- Configuring done (0.5s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/C#/PROGRA2_2025-2/L6_2023_2_POO_MELGAR/cmake-build-debug

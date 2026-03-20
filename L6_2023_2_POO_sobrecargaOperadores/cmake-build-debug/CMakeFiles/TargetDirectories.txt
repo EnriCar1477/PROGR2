@@ -1,0 +1,3 @@
+C:/C#/PROGRA2_2025-2/L6_2023_2_POO_sobrecargaOperadores/cmake-build-debug/CMakeFiles/L6_2023_2_POO_sobrecargaOperadores.dir
+C:/C#/PROGRA2_2025-2/L6_2023_2_POO_sobrecargaOperadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C#/PROGRA2_2025-2/L6_2023_2_POO_sobrecargaOperadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
